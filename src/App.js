@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div style={"font-size: 20px"} className="table-hieght">
+        <div className="table-hieght">
           © Powered by{" "}
           <a
             href="https://www.myfxbook.com"
